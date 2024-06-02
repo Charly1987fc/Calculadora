@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\bin\Debug\CalculadoraProgra2.exe.config
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\bin\Debug\CalculadoraProgra2.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\bin\Debug\CalculadoraProgra2.pdb
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\obj\Debug\CalculadoraProgra2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\obj\Debug\CalculadoraProgra2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\obj\Debug\CalculadoraProgra2.exe
+C:\Users\Usuario\OneDrive - CastroCarazo\Documentos\PROGRAMACION 2\CalculadoraProgra2\obj\Debug\CalculadoraProgra2.pdb
